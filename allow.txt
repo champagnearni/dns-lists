@@ -1,10 +1,10 @@
 [Adblock Plus]
 ! Title: champagnearni's DNS Allowlist
 ! Description: Whitelists non-intrusive domains caught it some blocklists
-! Last modified:  Jan 31 2026 22:09 UTC
-! Version: 2026.01.31.22.09
+! Last modified:  May 9 2026 12:11 UTC
+! Version: 2026.05.09.12.10
 ! Syntax: AdBlock
-! Number of entries: 7
+! Number of entries: 8
 !
 @@||external-preview.redd.it^$important
 @@||oakface.cc^$important
@@ -13,3 +13,4 @@
 @@||v20.events.data.microsoft.com
 @@||raiderstash.online
 @@||arcraiders.wiki
+@@||spade.twitch.tv^$important
