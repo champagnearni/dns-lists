@@ -4,7 +4,7 @@
 ! Last modified:  May 15 2026 11:47 UTC
 ! Version: 2026.05.15.11.47
 ! Syntax: AdBlock
-! Number of entries: 9
+! Number of entries: 10
 !
 @@||external-preview.redd.it^$important
 @@||oakface.cc^$important
@@ -14,4 +14,5 @@
 @@||raiderstash.online
 @@||arcraiders.wiki
 @@||spade.twitch.tv^$important
+@@||r6s.skin^$important
 @@||www.r6s.skin^$important
