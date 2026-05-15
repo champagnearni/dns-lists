@@ -14,4 +14,4 @@
 @@||raiderstash.online
 @@||arcraiders.wiki
 @@||spade.twitch.tv^$important
-@@||r6s.skin^$important
+@@||www.r6s.skin^$important
