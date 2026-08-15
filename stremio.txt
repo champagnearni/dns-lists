@@ -1,10 +1,10 @@
 [Adblock Plus]
 ! Title: AIOStreams & Stremio DNS Allowlist
 ! Description: Whitelists domains required for AIOStreams, scrapers, metadata, and debrid integrations
-! Last modified: August 14 2026 22:44 UTC
-! Version: 2026.08.14.22.44
+! Last modified: August 15 2026 11:57 UTC
+! Version: 2026.08.15.11.57
 ! Syntax: AdBlock
-! Number of entries: 7
+! Number of entries: 8
 !
 @@||stremio.itcon.au^$important
 @@||aiometadatafortheweebs.midnightignite.me^$important
@@ -13,3 +13,4 @@
 @@||torrentio.strem.fun^$important
 @@||api.torbox.app^$important
 @@||comet.feels.legal^$important
+@@||releases.moe^$important
