@@ -19,5 +19,3 @@
 @@||r6s.skin
 @@||worldofwarships.asia
 @@||tacohome.cc
-@@||instance-jg9dju.screenconnect.com^$important
-@@||instance-jg9dju-relay.screenconnect.com^$important
